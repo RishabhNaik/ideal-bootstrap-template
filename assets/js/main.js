@@ -1,9 +1,4 @@
-/**
-* Template Name: ideal - v4.5.0
-* Template URL: https://bootstrapmade.com/ideal-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
